@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#ignore starter code 
+/Starter_Code 2
+.DS_Store
+
 # C extensions
 *.so
 
