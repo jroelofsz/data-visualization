@@ -53,6 +53,9 @@ The executive team has tasked you with generating all of the tables and figures 
 
 # References
 ---
-- This was used for the flierprops I noticed in the GitHub below. I used the syntax to change the customization of the outlier fliers in the boxplot piece [Flierprops MatPlotLib](https://matplotlib.org/3.1.1/gallery/statistics/boxplot.html)
-- I used this GitHub Repo to compare results as well as processes to analyze the data. I tried to find alternate/better practices for some of the calculations. I mainly used this as a starting point or to go back and help debug my own code when it woulnd't work. |[Benanza Github Repo](https://github.com/benanza/Pymaceuticals)
-- Richard Wallace - I used code derived from Richard's work to identify the duplicate Mouse ID and Timepoint values and remove them from the DataFrame. I got stuck on this for a while and could not for the life of me find documentation that gave me what I needed. Need to work on that. [Richard Wallace's GitHub](https://github.com/Cenbull70/Module-5-Challenge)
+- This was used for the flierprops I noticed in the GitHub below. I used the syntax to change the customization of the outlier fliers in the boxplot piece 
+  - [Flierprops MatPlotLib](https://matplotlib.org/3.1.1/gallery/statistics/boxplot.html)
+- I used this GitHub Repo to compare results as well as processes to analyze the data. I tried to find alternate/better practices for some of the calculations. I mainly used this as a starting point or to go back and help debug my own code when it woulnd't work. | 
+  - [Benanza Github Repo](https://github.com/benanza/Pymaceuticals)
+- Richard Wallace - I used code derived from Richard's work to identify the duplicate Mouse ID and Timepoint values and remove them from the DataFrame. I got stuck on this for a while and could not for the life of me find documentation that gave me what I needed. Need to work on that. 
+  - [Richard Wallace's GitHub Repo](https://github.com/Cenbull70/Module-5-Challenge)
